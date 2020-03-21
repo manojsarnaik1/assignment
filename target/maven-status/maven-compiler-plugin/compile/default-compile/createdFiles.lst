@@ -1,0 +1,8 @@
+com\uxpsystems\assignment\exception\RecordNotFoundException.class
+com\uxpsystems\assignment\controller\UserController.class
+com\uxpsystems\assignment\AssignmentApplication.class
+com\uxpsystems\assignment\config\AssignmentSecurityConfig.class
+com\uxpsystems\assignment\config\ConfigurationClass.class
+com\uxpsystems\assignment\dao\UserDao.class
+com\uxpsystems\assignment\service\UserService.class
+com\uxpsystems\assignment\model\User.class
